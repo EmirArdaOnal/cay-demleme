@@ -44,9 +44,7 @@ Tabii, işte kodunuzun ayrıntılı bir açıklaması:
      - Sıcaklık kontrol işlemi aktif durumdaysa ve belirlenen süre geçmişse:
        - LCD ekran temizlenir.
        - "Isitma tamamlandi" mesajı yazdırılır.
-       - İkinci satıra "Dem
-
-le'ye basin" mesajı yazdırılır.
+       - İkinci satıra "Demle'ye basin" mesajı yazdırılır.
        - Sıcaklık kontrol işlemi durumu `false` olarak ayarlanır.
        - Bayatlama mesajının gösterildiği durum `true` olarak ayarlanır.
 
