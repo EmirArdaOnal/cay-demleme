@@ -21,4 +21,4 @@ itma tamamlandi" ve "Demle'ye basin" mesajları yazılır, ısıtma işlemi durd
 
 
 
-[Proje Link](https://www.tinkercad.com/things/20cGe4lFDXM-caydemle)
+[Proje Link](https://www.tinkercad.com/things/3k4cIkqJ8BD-caycemlemesistemi)
